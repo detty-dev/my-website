@@ -1,0 +1,41 @@
+                
+                    /* CSS FOR PROJECT.HTML */
+        .image-gown {
+            height: 400px;
+            
+                    }
+                                            
+             .tag {
+        color: black;
+        padding: 20px;
+        margin-bottom: 20px;
+        text-decoration: none;
+             }
+             .mini {
+              display: flex;
+              /* flex-wrap: nowrap; */
+              
+             }
+          
+           .container {
+               margin: 5px;
+               height: 300px;
+               background-color: rgb(49, 94, 94);
+               display: flex;
+               /* flex-direction: row;
+              
+              justify-content: center; */
+             
+              }
+                .container-item{
+              background-color: rgb(65, 19, 19);
+                         width: 40px;
+                         line-height:  60px;
+                         text-align: center;
+                         font-size: 25px;
+                         margin: 10px;
+
+                     }
+   
+
+

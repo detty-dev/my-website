@@ -1,0 +1,25 @@
+body {
+  margin: 20px;
+  
+}
+
+.tola-img {
+  width: 150px;
+}
+.container {
+    padding: 20px;
+   display: flex;
+   justify-content: space-around;
+   width: 400px;
+   background-color: rgba(125, 182, 210, 0.5);
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   border-bottom: 5px solid rgb(229, 121, 229); 
+   
+}   
+.page {
+  border: 1px dotted blue;
+ 
+}
+ 

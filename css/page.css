@@ -1,0 +1,39 @@
+  
+  /* css for page */
+  #page {
+    /* background: linear-gradient(to bottom,
+     rgb(128, 100, 72), rgb(83, 184, 231),
+      rgba(3, 53, 24, 0.1)); */
+       }  
+     
+ #title {
+color: rgb(38, 22, 232);
+font-weight: 800;
+}
+.image-tola  {
+width: 200px;
+height: 200px;
+}
+.subtitle {
+color: rgb(32, 29, 202);
+}
+.image-bea {
+width: 300px;
+height: 200px; 
+}
+  .container {
+    background-color: rgb(161, 120, 101);    
+    margin: 10px;
+    display: flex;
+  }
+  .container-item {
+    padding: 20px;
+    width: 400px;
+    height: 100px;                                                      
+}
+.link {
+  color: rgb(7, 78, 43);
+}
+.second {
+  float: none;
+}
